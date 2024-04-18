@@ -23,7 +23,7 @@ Groupement par caractéristique : Analysez les prix moyens par marque, type de c
 Histogrammes et scatter plots : Visualisez la distribution des prix, l'âge des voitures, et le kilométrage.
 Boxplots : Comparez les distributions de prix entre différentes marques ou catégories de transmission.
 
-# Étape 5 : Analyse plus profonde**
+# Étape 5 : Analyse plus profonde
 
 # Corrélation: Étudiez les corrélations entre les variables numériques, comme le prix et le kilométrage, le prix et la puissance du moteur.
 
