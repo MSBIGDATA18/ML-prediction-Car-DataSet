@@ -13,4 +13,4 @@ Chargement : Chargez les données dans un DataFrame pandas.
 Nettoyage : Traitez les valeurs manquantes, éliminez les entrées aberrantes et normalisez les données, si nécessaire.
 Conversion des types : Assurez-vous que les colonnes numériques sont traitées comme telles.
 
-#Étape 3 : Exploration des données
+# Étape 3 : Exploration des données
