@@ -16,3 +16,7 @@ Conversion des types : Assurez-vous que les colonnes numériques sont traitées 
 # Étape 3 : Exploration des données
 Analyse descriptive : Calculez les statistiques descriptives pour les caractéristiques comme le prix, le kilométrage et l'âge.
 Groupement par caractéristique : Analysez les prix moyens par marque, type de carburant, et ville de vente.
+
+# Étape 4 : Visualisation des données
+Histogrammes et scatter plots : Visualisez la distribution des prix, l'âge des voitures, et le kilométrage.
+Boxplots : Comparez les distributions de prix entre différentes marques ou catégories de transmission.
