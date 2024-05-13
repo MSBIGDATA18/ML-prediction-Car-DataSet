@@ -14,3 +14,5 @@ Nettoyage : Traitez les valeurs manquantes, éliminez les entrées aberrantes et
 Conversion des types : Assurez-vous que les colonnes numériques sont traitées comme telles.
 
 # Étape 3 : Exploration des données
+Analyse descriptive : Calculez les statistiques descriptives pour les caractéristiques comme le prix, le kilométrage et l'âge.
+Groupement par caractéristique : Analysez les prix moyens par marque, type de carburant, et ville de vente.
