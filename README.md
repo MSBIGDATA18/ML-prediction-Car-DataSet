@@ -9,3 +9,4 @@
 
 Données : Un fichier CSV contenant des informations de base sur les offres de vente de voitures, y compris la marque, le modèle, le prix, la ville de vente, le type de carburant, le type de transmission, le type de propulsion, le kilométrage, le pays d'origine, la capacité du moteur, la puissance du moteur et l'âge de la voiture.
 Chargement : Chargez les données dans un DataFrame pandas.
+# Étape 2 : Nettoyage des données
